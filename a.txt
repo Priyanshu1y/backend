@@ -1,2 +1,4 @@
 second time
 added somethings
+changing to check git diff --name-only --cached
+now this fi
