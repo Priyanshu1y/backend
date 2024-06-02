@@ -1,5 +1,5 @@
 {
-  "name": "kuch_bhi",
+  "name": "kuchbhi",
   "version": "1.0.0",
   "description": "kuch bhi backend",
   "main": "index.js",
@@ -17,5 +17,9 @@
   "dependencies": {
     "dotenv": "^16.4.5",
     "express": "^4.19.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "backend"
   }
 }

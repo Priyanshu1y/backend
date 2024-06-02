@@ -1,5 +1,9 @@
 second time
 added somethings
 changing to check git diff --name-only --cached
+<<<<<<< HEAD
 now this file
 pushing again
+
+now this fi
+>>>>>>> main
